@@ -1,7 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Flixter Project from The Firehose Project
+
+Flixter is a two sided video streaming marketplace, featuring credit card payment capabilities, user role management, advanced UI & UX, and advanced database relationships.
 
 Things you may want to cover:
 
