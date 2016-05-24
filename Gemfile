@@ -11,6 +11,7 @@ gem 'figaro'
 
 #Carrierwave gem
 gem 'carrierwave'
+gem 'carrierwave-aws'
 
 #Simple Form gem
 gem 'simple_form'
