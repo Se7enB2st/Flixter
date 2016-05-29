@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#Stripe Payment Gem
+gem 'stripe'
+
 #MiniMagick gem
 gem 'mini_magick', '~> 4.3.1'
 
