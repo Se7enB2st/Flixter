@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#Ranked Model Gem
+gem 'ranked-model'
+
 #Stripe Payment Gem
 gem 'stripe'
 
