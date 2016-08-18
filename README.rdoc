@@ -1,6 +1,0 @@
-== README
-https://flixter-ethan-he.herokuapp.com/
-
-Flixter Project from The Firehose Project
-
-Flixter is a two sided video streaming marketplace, featuring credit card payment capabilities, user role management, advanced UI & UX, and advanced database relationships.
