@@ -4,6 +4,11 @@ Flixter is a two sided video streaming marketplace, featuring credit card paymen
 
 Nomster can be found in production [here](https://flixter-ethan-he.herokuapp.com/).
 
+**Start Application**
+
+1. Change directory to Nomster `cd Nomster`
+2. Start server `rails server`
+
 **Contributing**
 
 1. Fork the Nomster repository.
